@@ -11,3 +11,4 @@ Trying out Datastructures &amp; Algorithm
 * [Valid Perfect Sqaure](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Valid%20Perfect%20Square)
 * [Find the Town Judge](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Find%20the%20Town%20Judge)
 * [Flood Fill](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/FloodFill)
+* [Single element in sorted Array](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Single%20Element%20in%20sorted%20array)
