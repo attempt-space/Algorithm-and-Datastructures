@@ -13,3 +13,4 @@ Trying out Datastructures &amp; Algorithm
 * [Flood Fill](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/FloodFill)
 * [Single element in sorted Array](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Single%20Element%20in%20sorted%20array)
 * [Implement Prefix Trie](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Implement%20Trie)
+* [Odd even Linked List](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Odd%20even%20Linked%20List)
