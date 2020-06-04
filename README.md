@@ -14,3 +14,4 @@ Trying out Datastructures &amp; Algorithm
 * [Single element in sorted Array](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Single%20Element%20in%20sorted%20array)
 * [Implement Prefix Trie](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Implement%20Trie)
 * [Odd even Linked List](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Odd%20even%20Linked%20List)
+* [Find all Anagrams in a string](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Find%20all%20Anagrams%20in%20a%20string)
