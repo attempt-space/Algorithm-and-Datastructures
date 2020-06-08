@@ -16,3 +16,4 @@ Trying out Datastructures &amp; Algorithm
 * [Odd even Linked List](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Odd%20even%20Linked%20List)
 * [Find all Anagrams in a string](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Find%20all%20Anagrams%20in%20a%20string)
 * [Delete a node in Linked List](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Delete%20Node%20in%20Linked%20list)
+* [Invert a Binary Tree](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Invert%20Binary%20Tree)
