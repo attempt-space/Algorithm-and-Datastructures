@@ -18,3 +18,4 @@ Trying out Datastructures &amp; Algorithm
 * [Delete a node in Linked List](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Delete%20Node%20in%20Linked%20list)
 * [Invert a Binary Tree](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Invert%20Binary%20Tree)
 * [Reverse a String](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Reverse%20a%20string)
+* [Is Subsequence](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Is%20Subsequence)
