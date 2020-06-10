@@ -19,3 +19,4 @@ Trying out Datastructures &amp; Algorithm
 * [Invert a Binary Tree](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Invert%20Binary%20Tree)
 * [Reverse a String](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Reverse%20a%20string)
 * [Is Subsequence](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Is%20Subsequence)
+* [Search Insert Position](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Search%20Insert%20Position)
