@@ -65,7 +65,6 @@ class RandomizedSet:
 
 
 
-
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
 # param_1 = obj.insert(val)
