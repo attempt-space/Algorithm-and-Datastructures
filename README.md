@@ -21,3 +21,4 @@ Trying out Datastructures &amp; Algorithm
 * [Is Subsequence](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Is%20Subsequence)
 * [Search Insert Position](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Search%20Insert%20Position)
 * [Datastructure - Insert,Delete,Get Random](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Insert%20Delete%20GetRandom%20O(1))
+* [count Complete Tree Nodes](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Count%20Complete%20Tree%20Nodes)
