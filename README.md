@@ -22,3 +22,4 @@ Trying out Datastructures &amp; Algorithm
 * [Search Insert Position](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Search%20Insert%20Position)
 * [Datastructure - Insert,Delete,Get Random](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Insert%20Delete%20GetRandom%20O(1))
 * [count Complete Tree Nodes](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Count%20Complete%20Tree%20Nodes)
+* [Find the Duplicate Number](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Find%20the%20Duplicate%20Number)
