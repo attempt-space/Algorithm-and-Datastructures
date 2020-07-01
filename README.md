@@ -26,3 +26,4 @@ Trying out Datastructures &amp; Algorithm
 * [Sum Root to Leaf Numbers](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Sum%20root%20to%20Leaf%20Numbers)
 * [Perfect sqaures](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Perfect%20sqaures)
 * [Unique Paths](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Unique%20Paths)
+* [Arranging coins](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Arranging%20coins)
