@@ -27,3 +27,4 @@ Trying out Datastructures &amp; Algorithm
 * [Perfect sqaures](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Perfect%20sqaures)
 * [Unique Paths](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Unique%20Paths)
 * [Arranging coins](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Arranging%20coins)
+* [Jump Game III](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Jump%20Game%20III)
