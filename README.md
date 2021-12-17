@@ -31,3 +31,4 @@ Trying out Datastructures &amp; Algorithm
 * [Consecutive Characters](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Consecutive%20Characters/code.py)
 * [Range sum of BST](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Range%20Sum%20of%20BST)
 * [Insertion Sort List](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Insertion%20sort%20list/code.py)
+* [Maximal Square](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Maximal%20square/code.py)
