@@ -32,3 +32,4 @@ Trying out Datastructures &amp; Algorithm
 * [Range sum of BST](https://github.com/attempt-space/Algorithm-and-Datastructures/tree/master/AlgorithmChunk/Range%20Sum%20of%20BST)
 * [Insertion Sort List](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Insertion%20sort%20list/code.py)
 * [Maximal Square](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Maximal%20square/code.py)
+* [Numbers atmost N given Digit set](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Numbers%20atmost%20N%20Given%20Digit%20set/code.py)
