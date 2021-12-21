@@ -34,3 +34,4 @@ Trying out Datastructures &amp; Algorithm
 * [Maximal Square](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Maximal%20square/code.py)
 * [Numbers atmost N given Digit set](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Numbers%20atmost%20N%20Given%20Digit%20set/code.py)
 * [Minimum Absolute Difference](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Minimum%20%20Absolute%20Difference/code.py)
+* [Power of Two](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Power%20of%20Two/code.py)
