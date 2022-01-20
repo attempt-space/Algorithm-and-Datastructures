@@ -36,3 +36,4 @@ Trying out Datastructures &amp; Algorithm
 * [Minimum Absolute Difference](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Minimum%20%20Absolute%20Difference/code.py)
 * [Power of Two](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Power%20of%20Two/code.py)
 * [Reorder List](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Reorder%20List/code.py)
+* [Merge Intervals](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Merge%20Intervals/code.py)
