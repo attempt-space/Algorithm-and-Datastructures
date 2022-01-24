@@ -38,5 +38,5 @@ Trying out Datastructures &amp; Algorithm
 * [Reorder List](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Reorder%20List/code.py)
 * [Merge Intervals](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Merge%20Intervals/code.py)
 * [Can Place Flowers](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/c0a205fa1a2d4fa0166d5d0dd78c9c2d4bfbbaba/AlgorithmChunk/Merge%20Intervals/code.py)
-*[Koko Eating Bananas](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Koko%20Eating%20Bananas/Code.py)
-*[Detect Capital](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/225936f659e6214b01186b6cb96a859e34cbb576/AlgorithmChunk/Detect%20capital/code.py)
+* [Koko Eating Bananas](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Koko%20Eating%20Bananas/Code.py)
+* [Detect Capital](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/225936f659e6214b01186b6cb96a859e34cbb576/AlgorithmChunk/Detect%20capital/code.py)
