@@ -49,3 +49,6 @@ Trying out Datastructures &amp; Algorithm
 * [N-ary Tree preorder Traversal](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/N-ary%20Tree%20preorder%20Traversal/code.py)
 * [Reverse Linked list](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Reverse%20Linked%20list/code.py)
 * [Two sum IV BST](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Two%20sum%20IV-%20BST/code.py)
+* [Count and say](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Count%20and%20say/code.py)
+* [Delete middle of linked list](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Delete%20Middle%20of%20linked%20list/code.py)
+* [Increasing triplet subsequence](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Increasing%20triplet%20subsequence/code.py)
