@@ -54,3 +54,4 @@ Trying out Datastructures &amp; Algorithm
 * [51. Increasing triplet subsequence](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Increasing%20triplet%20subsequence/code.py)
 * [52. Top K Frequent words](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Top%20K%20Frequent%20Words/code.py)
 * [53. Integer to Roman](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Integer%20to%20Roman/code.py)
+* [54. Contains Duplicate](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Contains%20Duplicate%20II/code.py)
