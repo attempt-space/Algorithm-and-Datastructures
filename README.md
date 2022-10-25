@@ -56,3 +56,5 @@ Trying out Datastructures &amp; Algorithm
 * [53. Integer to Roman](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Integer%20to%20Roman/code.py)
 * [54. Contains Duplicate](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Contains%20Duplicate%20II/code.py)
 * [55. Set Mismatch](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Set%20Mismatch/code.py)
+* [56. Check two strings are equivalent](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Check%20two%20strings%20are%20equivalent/code.py)
+* [57. Maximum length of Unique characters](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Maximum%20length%20of%20Unique%20characters/code.py)
