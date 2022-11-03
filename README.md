@@ -61,3 +61,4 @@ Trying out Datastructures &amp; Algorithm
 * [58. Group Anagram](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Group%20Anagram/code.py)
 * [59. Toeplitz Matrix](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Toeplitz%20Matrix/code.py)
 * [60. Minimum genetic mutation](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Minimum%20Genetic%20mutation/code.py)
+* [61. Longest palindrome by concatenating strings](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Longest%20palindrome%20by%20concatenating%20strings/code.py)
