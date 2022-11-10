@@ -65,3 +65,4 @@ Trying out Datastructures &amp; Algorithm
 * [62. Reverse vowels of a string](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Reverse%20Vowels%20of%20string/code.py)
 * [63. Make the string great](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Make%20the%20string%20great/code.py)
 * [64. Maximum 69 number](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Maximum%2069%20number/code.py)
+* [65. Remove All Adjacent Duplicates In String](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Remove%20all%20adjacent%20duplicates%20in%20string/code.py)
