@@ -10,19 +10,13 @@
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        localsum = 0
         dict_= {}
         
         for each in strs:
-            sortedele = str(sorted(each))
-            # print(sortedele)
-            if sortedele not in dict_:
-                dict_[sortedele] = []
+            sortedele = "".join(sorted(each))
+            if sortedele in dict_:
                 dict_[sortedele].append(each)
             else:
-                dict_[sortedele].append(each)
-        returnlist = []
-        for key,value in dict_.items():
-            returnlist.append(value)
-        return returnlist
+                dict_[sortedele]= [each]
+        return list(dict_.values())
                 
