@@ -68,3 +68,5 @@ Trying out Datastructures &amp; Algorithm
 * [65. Remove All Adjacent Duplicates In String](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Remove%20all%20adjacent%20duplicates%20in%20string/code.py)
 * [66. Reverse words in a string](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Reverse%20words%20in%20a%20string/code.py)
 * [67. Guess number lower or higher](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Guess%20number%20higher%20or%20lower/code.py)
+* [68. Valid sudoku](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/valid%20Sudoku/code.py)
+* [69. Product of Array except self](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/product%20of%20array%20Except%20self/code.py)
