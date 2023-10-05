@@ -70,4 +70,5 @@ Trying out Datastructures &amp; Algorithm
 * [67. Guess number lower or higher](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Guess%20number%20higher%20or%20lower/code.py)
 * [68. Valid sudoku](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/valid%20Sudoku/code.py)
 * [69. Product of Array except self](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/product%20of%20array%20Except%20self/code.py)
-* [68. Majority element II](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Majority%20Element%20II/code.py)
+* [70. Majority element II](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Majority%20Element%20II/code.py)
+* [71. Longest Consecutive sequence](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Longest%20Consecutive%20sequece/code.py)
