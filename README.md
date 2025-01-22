@@ -74,3 +74,4 @@ Trying out Datastructures &amp; Algorithm
 * [71. Longest Consecutive sequence](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Longest%20Consecutive%20sequece/code.py)
 * [72. First completely painted Row or column](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/First%20completely%20painted%20Row%20or%20column/01File.py)
 * [73. Grid Game](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/GridGame/01File.py)
+* [74. Map of Highest peak]()
