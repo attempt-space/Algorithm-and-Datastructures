@@ -4,6 +4,7 @@ Output: [[1,0],[2,1]]
 Explanation: The image shows the assigned heights of each cell.
 The blue cell is the water cell, and the green cells are the land cells.
 """
+from collections import deque
 class Solution:
     def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
         R = len(isWater)
