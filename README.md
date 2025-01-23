@@ -75,3 +75,4 @@ Trying out Datastructures &amp; Algorithm
 * [72. First completely painted Row or column](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/First%20completely%20painted%20Row%20or%20column/01File.py)
 * [73. Grid Game](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/GridGame/01File.py)
 * [74. Map of Highest peak](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Map%20of%20highest%20Peak/01File.py)
+* [75. Servers that communicate]()
