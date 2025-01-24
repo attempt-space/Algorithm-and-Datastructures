@@ -76,3 +76,4 @@ Trying out Datastructures &amp; Algorithm
 * [73. Grid Game](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/GridGame/01File.py)
 * [74. Map of Highest peak](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/Map%20of%20highest%20Peak/01File.py)
 * [75. Servers that communicate](https://github.com/attempt-space/Algorithm-and-Datastructures/blob/master/AlgorithmChunk/075_Servers%20that%20communicate/01File.py)
+* [76. Find Eventual safe States]()
